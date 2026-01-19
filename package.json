@@ -9,7 +9,8 @@
   },
   "dependencies": {
     "fastify": "^5.2.1",
-    "ioredis": "^5.9.2"
+    "ioredis": "^5.9.2",
+    "ky": "^1.14.2"
   },
   "devDependencies": {
     "@types/node": "^22.10.7",

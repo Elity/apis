@@ -4,3 +4,5 @@ dist/
 .DS_Store
 storages/*
 !storages/.gitkeep
+src/routes/*
+!src/routes/health.ts

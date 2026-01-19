@@ -6,3 +6,4 @@ storages/*
 !storages/.gitkeep
 src/routes/*
 !src/routes/health.ts
+docker-compose.yml
